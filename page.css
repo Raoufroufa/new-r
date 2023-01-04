@@ -59,6 +59,16 @@ form{
     display: flex;
     flex-direction: column;
     padding:20px;
-    
-    margin:auto;
+    margin: 200px auto;
+}
+label {
+    color: black;
+    font-size: 26px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.button {
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
 }
