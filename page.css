@@ -1,6 +1,6 @@
-/* body{
-    background-image: url(Images/istockphoto-1415799772-170667a.jpg);
-} */
+ body{
+    background: url('Images/istockphoto-1415799772-170667a.jpg');
+ }
 * {
 	margin: 0;
 	padding: 0;
@@ -50,6 +50,7 @@ input {
 }
 
 form {
+	background-color: rgb(255, 255,255,0.5);
 	border: 2px solid black;
 	border-radius: 15px;
 	width: 50%;
@@ -68,4 +69,13 @@ label {
 	color: red;
 	font-size: 26px;
 	font-weight: bold;
+}
+
+footer h2{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: black;
+    text-align: center;
+    
 }
