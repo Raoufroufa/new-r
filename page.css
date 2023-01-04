@@ -1,9 +1,5 @@
-h1{
-    color: aqua;
-    font-size: 26px;
-}
-p{
-    background-color: brown;
+body{
+    background-image: url(Images/istockphoto-1415799772-170667a.jpg);
 }
 
 input{
